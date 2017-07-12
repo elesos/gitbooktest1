@@ -1,7 +1,7 @@
 # gitbooktest1
 my desc
 
-welcome to visit my site [elesos.com](www.elesos.com)
+welcome to visit my site [elesos.com](http://www.elesos.com)
 
 * test1
 * test2
